@@ -1,4 +1,4 @@
-@inproceedings{REPO-188,
+@inproceedings{REPO-187,
     author = "Guo, Huayan and Liang, Ying-Chang and Chen, Jie and Larsson, Erik G",
     booktitle = "2019 IEEE Global Communications Conference (GLOBECOM)",
     organization = "IEEE",
